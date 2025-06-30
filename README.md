@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-----
+
 I'm a second year Master’s Degree student in Computer Engineering at the University of Trieste with 
 a strong interest in software engineering, machine learning, and deep learning. Driven by 
 intellectual curiosity and a genuine passion for learning, I aim to explore new concepts and tackle 
