@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+----
+I'm a second year Master’s Degree student in Computer Engineering at the University of Trieste with 
+a strong interest in software engineering, machine learning, and deep learning. Driven by 
+intellectual curiosity and a genuine passion for learning, I aim to explore new concepts and tackle 
+unfamiliar challenges. My adaptability and intrinsic motivation allow me to quickly grasp complex 
+ideas. I'm excited to apply and expand my skills through hands-on experience in real-world projects. 
+My complete portfolio of personal and academic projects is available on my GitHub profile. 
